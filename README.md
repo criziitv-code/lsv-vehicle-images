@@ -6,3 +6,5 @@ Fivem LSV Vehicle Images
 | Spawn Name | Anzeigename |
 | :--- | :--- |
 | `wolfsbane2` | Wolfsbane Custom |
+| `wayfarer` | Wayfarer |
+| `angel` | Angel |
