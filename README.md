@@ -9,3 +9,4 @@ Fivem LSV Vehicle Images
 | `wayfarer` | Wayfarer |
 | `angel` | Angel |
 | `diabolus` | Diabolus |
+| `freeway` | Freeway |
