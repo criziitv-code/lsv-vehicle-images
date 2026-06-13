@@ -1,7 +1,8 @@
 # lsv-vehicle-images
 Fivem LSV Vehicle Images
 
-
---Motorcycles
-// WESTERN
-["wolfsbane2"] = "Wolfsbane Custom",
+### 🏍️ Motorcycles (Motorräder)
+#### 🏢 WESTERN
+| Spawn Name | Anzeigename |
+| :--- | :--- |
+| `wolfsbane2` | Wolfsbane Custom |
